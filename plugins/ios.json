@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.test.cachemanager"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.test.cachemanager"
+    }
+  },
+  "dependent_plugins": {}
+}
